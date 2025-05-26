@@ -1,4 +1,4 @@
-Hi there, I'm Omid Abed! 👋
+Hi there, I'm Amirhossein Agz! 👋
 Welcome to my GitHub profile! I'm a passionate developer with a strong interest in electrical engineering, field and wave machine learning, and image processing. Here's a bit about me and what I do:
 
 About Me
